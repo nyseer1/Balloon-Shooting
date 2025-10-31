@@ -1,2 +1,2 @@
-# Balloon-Shooting
-Short balloon game written in Unity
+# Ballon_Game
+ Short Game
